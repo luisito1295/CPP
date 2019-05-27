@@ -2,7 +2,7 @@
 /*Nombre: Lopez Mendoza Luis Fernando
   Grupo: 1 D ISC
   Fecha: 26/09/15
-  Descripcion: Arreglo unidimencional tamaño de 5, e ingresarlos manualmente y mostrarlos
+  Descripcion: Arreglo unidimencional tamaÃ±o de 5, e ingresarlos manualmente y mostrarlos
   */
 
 
@@ -18,7 +18,7 @@ main()
      
      
      
- printf("arreglo bidemensional con tamaño de 5, se ingresan los valores numericos manualmente");
+ printf("arreglo bidemensional con tamaÃ±o de 5, se ingresan los valores numericos manualmente");
  printf("mostrarlos nuevamente al terminar de ingresarlos\n");
  printf("\ningrese los valores\n");
  
